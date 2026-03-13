@@ -18,5 +18,3 @@ The program shows who wins each round and keeps the game interactive.
 ## Language
 C++
 
-## Author
-Mohamed Ahmed
